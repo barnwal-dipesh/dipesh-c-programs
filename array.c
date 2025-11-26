@@ -23,4 +23,6 @@ int main()
         printf("The number %d does not exist in the Array", n);
     else
         printf("The number %d exists at %d index of the Array", n, c);
+    return 0;
+
 }
